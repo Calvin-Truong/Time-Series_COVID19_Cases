@@ -1,4 +1,4 @@
-*CURRENT DATE: 12/2/2020
+*CURRENT DATE: Dec 2, 2020
 # Topic
 COVID-19 Confirmed Cases in the United States (Jan 22, 2020 - Nov 18, 2020)
 
