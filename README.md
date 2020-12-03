@@ -3,7 +3,7 @@ COVID-19 Confirmed Cases in the United States (Jan 22, 2020 - Nov 18, 2020)
 
 
 # Goal
-Predict and analyze the number of cases by the end of the year 2020
+Predict and analyze the number of cases by the end of the year 2020 (Dec 31, 2020)
 
 
 # Summary 
